@@ -1,4 +1,4 @@
-# Analysing Canadian Immigration Data from UN
+# Analysing Canadian Immigration Data
 
 I explored 'Immigration to Canada from 1980 to 2013' data from United Nation's website, and found which countries have the most immigrants to Canada.
 
